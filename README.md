@@ -1,2 +1,2 @@
-# pandroa-cloud-dependencies
-pandroa-cloud-dependencies
+# pandora-cloud-dependencies
+pandora-cloud-dependencies
