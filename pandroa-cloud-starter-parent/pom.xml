@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+         https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.pandroa.cloud</groupId>
         <artifactId>pandroa-cloud-dependencies</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-
     <groupId>com.pandroa.cloud</groupId>
     <artifactId>pandroa-cloud-starter-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>pandroa-cloud-starter-parent</name>
-    <description>Demo project for Spring Boot</description>
+    <description>pandroaCloud云服务外部依赖管理</description>
     <packaging>pom</packaging>
-
 
     <properties>
         <java.version>1.8</java.version>
