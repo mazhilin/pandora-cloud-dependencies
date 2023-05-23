@@ -10,11 +10,11 @@
         <version>2.6.1</version>
         <relativePath/>
     </parent>
-    <groupId>com.pandroa.cloud</groupId>
-    <artifactId>pandroa-cloud-dependencies</artifactId>
+    <groupId>com.pandora.cloud</groupId>
+    <artifactId>pandora-cloud-dependencies</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>pandroa-cloud-dependencies</name>
-    <description>pandroaCloud云服务外部依赖管理</description>
+    <name>pandora-cloud-dependencies</name>
+    <description>pandoraCloud云服务外部依赖管理</description>
     <packaging>pom</packaging>
 
     <properties>
@@ -24,7 +24,7 @@
         <main.basedir>${basedir}/../..</main.basedir>
         <resource.delimiter>@</resource.delimiter>
         <start-class>org.rainbow.spring.boot.Application</start-class>
-        <pandroa-cloud.version>0.0.1-SNAPSHOT</pandroa-cloud.version>
+        <pandora-cloud.version>0.0.1-SNAPSHOT</pandora-cloud.version>
 
         <github-oauth.version>1.0.0</github-oauth.version>
         <apache-oauth2.version>1.0.2</apache-oauth2.version>
@@ -978,7 +978,7 @@
     </distributionManagement>
 
     <modules>
-        <module>pandroa-cloud-starter-parent</module>
+        <module>pandora-cloud-starter-parent</module>
     </modules>
 
     <build>

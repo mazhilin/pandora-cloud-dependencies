@@ -5,15 +5,15 @@
          https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.pandroa.cloud</groupId>
-        <artifactId>pandroa-cloud-dependencies</artifactId>
+        <groupId>com.pandora.cloud</groupId>
+        <artifactId>pandora-cloud-dependencies</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <groupId>com.pandroa.cloud</groupId>
-    <artifactId>pandroa-cloud-starter-parent</artifactId>
+    <groupId>com.pandora.cloud</groupId>
+    <artifactId>pandora-cloud-starter-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>pandroa-cloud-starter-parent</name>
-    <description>pandroaCloud云服务外部依赖管理</description>
+    <name>pandora-cloud-starter-parent</name>
+    <description>pandoraCloud云服务外部依赖管理</description>
     <packaging>pom</packaging>
 
     <properties>
